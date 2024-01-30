@@ -17,7 +17,7 @@ Projeto criado no curso Explorer da RocketSeat.
 <br>
 
 <p align="center">
-  <img alt="Projeto Treine" src="imagens/preview.png" width="100%">
+  <img alt="Projeto Treine" src="img/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
